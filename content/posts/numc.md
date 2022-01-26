@@ -3,8 +3,8 @@ title: "NumC"
 date: 2021-04-26T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
+tags: ["C", "Python"]
+author: "Computer Architecture"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -18,7 +18,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
@@ -27,8 +27,4 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---

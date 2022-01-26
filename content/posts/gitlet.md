@@ -3,7 +3,7 @@ title: "Gitlet"
 date: 2020-05-04T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["Java"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true

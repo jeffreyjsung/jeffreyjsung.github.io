@@ -4,7 +4,7 @@ date: 2021-08-03T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
-author: "Me"
+author: "Computer Security"
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -18,7 +18,7 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
