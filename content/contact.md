@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+url: "/contact/"
 draft: true
 ---
 

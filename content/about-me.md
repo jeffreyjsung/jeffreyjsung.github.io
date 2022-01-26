@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+url: "/about-me/"
 draft: true
 ---
 
