@@ -115,11 +115,11 @@ menu:
           weight: 10
         - identifier: About Me
           name: About Me
-          #url: about-me
+          url: about-me
           weight: 20
         - identifier: Contact
           name: Contact
-          #url: contact
+          url: contact
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

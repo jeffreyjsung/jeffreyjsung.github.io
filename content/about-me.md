@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 url: "/about-me/"
-draft: true
+draft: false
 ---
 
 {{< figure align=center height=240 width=240 src="/jeffreysung.png">}}
