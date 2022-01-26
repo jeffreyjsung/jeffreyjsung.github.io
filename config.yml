@@ -1,4 +1,4 @@
-baseURL: www.jeffreysung.netlify.app
+baseURL: 'https://www.jeffreysung.netlify.app'
 title: Jeffrey Sung
 paginate: 5
 theme: PaperMod
