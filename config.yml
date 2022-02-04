@@ -56,7 +56,7 @@ params:
         enabled: false # needs to be explicitly set
         title: "Hey there, I'm Jeffrey \U0001F44B"
         subtitle: > 
-              Welcome to my website! (A work in progress)
+              Welcome to my website! ~a work in progress~
               
               
               This documents my journey as a programmer.
@@ -74,7 +74,7 @@ params:
     homeInfoParams:
         Title: "Hey there, I'm Jeffrey \U0001F44B"
         Content: > 
-              Welcome to my website!
+              Welcome to my website! ~a work in progress~
               
               
               This documents my journey as a programmer.
