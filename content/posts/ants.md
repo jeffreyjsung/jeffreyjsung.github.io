@@ -21,7 +21,7 @@ ShowPostNavLinks: true
 cover:
     image: "ants.png" # image path/url
     alt: "ants" # alt text
-    caption: "ants" # display caption under cover
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
