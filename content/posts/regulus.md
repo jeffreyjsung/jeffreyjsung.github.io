@@ -1,18 +1,15 @@
 ---
-title: "REGULUS"
+title: "📡  REGULUS"
 date: 2021-08-03T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+tags: ["Go"]
 author: "Computer Security"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "End-to-end encrypted file sharing system."
+summary: End-to-end encrypted file sharing system.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -27,8 +24,4 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---

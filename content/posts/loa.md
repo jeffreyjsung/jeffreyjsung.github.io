@@ -1,5 +1,5 @@
 ---
-title: "Lines of Action: The Board Game"
+title: "🧮  Lines of Action: The Board Game"
 date: 2020-04-06T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]

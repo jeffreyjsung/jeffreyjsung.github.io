@@ -1,5 +1,5 @@
 ---
-title: "Gitlet"
+title: "🐙  Gitlet"
 date: 2020-05-04T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]

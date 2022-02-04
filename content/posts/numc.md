@@ -1,11 +1,8 @@
 ---
-title: "NumC"
+title: "🔢  NumC"
 date: 2021-04-26T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: ["C", "Python"]
 author: "Computer Architecture"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
@@ -26,5 +23,5 @@ cover:
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---

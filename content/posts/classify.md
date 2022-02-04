@@ -1,5 +1,5 @@
 ---
-title: "Artifical Neural Network using RISC-V"
+title: "🧠  Artifical Neural Network using RISC-V"
 date: 2021-03-04T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]

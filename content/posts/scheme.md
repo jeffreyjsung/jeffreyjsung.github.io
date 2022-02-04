@@ -1,18 +1,15 @@
 ---
-title: "Scheme Interpreter"
+title: "➿  Scheme Interpreter"
 date: 2019-11-20T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+tags: ["Python"]
 author: "Structure and Interpretation of Computer Programs"
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "Python interpreter for the Scheme programming language."
+summary: Python interpreter for the Scheme programming language.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -22,9 +19,9 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "scheme.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---

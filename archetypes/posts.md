@@ -1,8 +1,6 @@
 ---
-title: "My 1st post"
+title: "post"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
 tags: []
 author: "Me"
 # author: ["Me", "You"] # multiple authors
@@ -12,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+summary: "summary"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -26,5 +24,5 @@ cover:
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
