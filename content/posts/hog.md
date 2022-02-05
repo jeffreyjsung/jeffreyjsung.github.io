@@ -18,7 +18,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/hog.png" # image path/url
+    image: "/hog.jpg" # image path/url
     alt: "Hog" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true

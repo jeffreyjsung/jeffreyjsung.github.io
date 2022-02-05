@@ -19,7 +19,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "scheme.png" # image path/url
+    image: "scheme.jpeg" # image path/url
     alt: "scheme" # alt text
     caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
