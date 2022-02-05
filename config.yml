@@ -54,21 +54,18 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: "Hey there, I'm Jeffrey \U0001F44B"
+        title: "About Me"
         subtitle: > 
-              Welcome to my website! ~a work in progress~
-              
-              
-              This documents my journey as a programmer.
+              Hey there, I'm Jeffrey! I'm currently an undergraduate student studying data and computer science at UC Berkeley.
+              Welcome to my spot on the web for the projects I've created - a compendium of the things I've learned over the years. I'm still discovering
+              new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.
         imageUrl: "jeffreysung.jpeg"
-        imageWidth: 140
-        imageHeight: 140
+        imageWidth: 250
+        imageHeight: 250
         imageTitle: jeffreysung
-        buttons:
-            - name: About Me
-              url: about-me
-            - name: Projects
-              url: projects
+        #buttons:
+           # - name: Resume
+            #  url: "https://drive.google.com/file/d/1Jo6GyTP17ukyqukcZPfGnHpYYnJjW03U/view?usp=sharing"
 
     # home-info mode
     homeInfoParams:
@@ -117,9 +114,9 @@ menu:
           name: About Me
           url: about-me
           weight: 20
-        - identifier: Contact
-          name: Contact
-          url: contact
+        - identifier: Connect
+          name: Connect
+          url: connect
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true

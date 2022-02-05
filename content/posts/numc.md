@@ -8,8 +8,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "Almost as good as NumPy."
+summary: Almost as good as NumPy.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
