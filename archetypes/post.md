@@ -1,15 +1,16 @@
 ---
-title: "🐙  Gitlet"
-date: 2020-05-04T11:30:03+00:00
-tags: ["Java"]
-author: "Data Structures"
+title: "post"
+date: 2020-09-15T11:30:03+00:00
+tags: []
+author: "Me"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "A version-control system that mimics the basic features of Git."
-summary: A version-control system that mimics the basic features of Git.
+description: "Desc Text."
+summary: Summary Text.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

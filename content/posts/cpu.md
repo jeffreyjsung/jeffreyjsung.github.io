@@ -1,34 +1,27 @@
 ---
-title: "🖥️  CPU Design for RISC-V Instructions"
+title: "🖥️  CPU Design for RISC-V ISA"
 date: 2021-04-12T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["RISC-V"]
+author: "Computer Architecture"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "Designed two-stage pipelined CPU that runs the full RISC-V instruction set."
+summary: Designed two-stage pipelined CPU that runs the full RISC-V instruction set.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "cpu.jpeg" # image path/url
+    alt: "" # alt text
+    caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    hidden: false # only hide on current single page
 ---

@@ -1,16 +1,15 @@
 ---
-title: "post"
-date: 2020-09-15T11:30:03+00:00
-tags: []
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+title: "©️  C Code Vulnerabilities"
+date: 2021-07-06T11:30:03+00:00
+tags: ["C"]
+author: "Computer Security"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-summary: "summary"
+description: "Exploiting a series of vulnerable programs on a virtual machine."
+summary: Exploiting a series of vulnerable programs on a virtual machine.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -20,7 +19,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

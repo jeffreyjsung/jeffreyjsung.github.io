@@ -1,34 +1,27 @@
 ---
-title: "🧠  Artifical Neural Network using RISC-V"
+title: "🧠  Classifer Using RISC-V Assembly"
 date: 2021-03-04T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+tags: ["RISC-V"]
+author: "Computer Architecture"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+description: "A simple artificial neural network written using RISC-V."
+summary: A simple artificial neural network written using RISC-V.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "classify.jpeg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    hidden: false # only hide on current single page
 ---

@@ -8,8 +8,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-summary: ""
+description: "A simple word replacement tool."
+summary: A simple word replacement tool.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false

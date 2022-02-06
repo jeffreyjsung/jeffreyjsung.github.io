@@ -8,8 +8,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
-summary: ""
+description: "Generates puzzles and allows user to solve them."
+summary: Generates puzzles and allows user to solve them.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
