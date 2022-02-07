@@ -1,5 +1,5 @@
 ---
-title: "🧟  Ants Vs. SomeBees"
+title: "🐝  Ants Vs. SomeBees"
 date: 2019-10-18T11:30:03+00:00
 tags: ["Python"]
 author: "Structure and Interpretation of Computer Programs"
