@@ -6,6 +6,8 @@ draft: false
 >## Contact
 The best method of contacting me is simpling emailing me at jeffjsung@gmail.com. I would be happy to answer any inquiries you might have, and always appreciate meeting new people.
 
+>## Relevant Coursework
+Here I am going to talk about the courses I have taken at UC Berkeley and my thoughts on them, for anyone who is curious.
 >## Music
 Here is a playlist of songs I am currently listening to, which might provide some insight into what kind of person I am. 
 {{< rawhtml >}}
@@ -14,5 +16,3 @@ Here is a playlist of songs I am currently listening to, which might provide som
         </iframe>
     </div>
 {{< /rawhtml >}}
-
-## Hobbies
