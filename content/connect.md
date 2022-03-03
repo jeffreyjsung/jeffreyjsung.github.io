@@ -12,7 +12,6 @@ Here I am going to talk about the courses I have taken at UC Berkeley and my tho
 Here is a playlist of my all-time greatest songs, which might provide some insight into what kind of person I am. 
 {{< rawhtml >}}
     <div>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/playlist/2vYCiBGwbPpkxCtVaefZlG?si=eab9c82d529e4d14" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-        </iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vYCiBGwbPpkxCtVaefZlG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     </div>
 {{< /rawhtml >}}
