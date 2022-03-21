@@ -9,7 +9,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "The Interstellar Microgravity Experiments II."
+description: "Second iteration of the Interstellar Microgravity Experiments."
 summary: The Interstellar Microgravity Experiments II.
 disableHLJS: true # to disable highlightjs
 disableShare: false
