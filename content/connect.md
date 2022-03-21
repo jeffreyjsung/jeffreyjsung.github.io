@@ -7,6 +7,23 @@ draft: false
 >## Contact
 The best method of contacting me is simpling emailing me at jeffjsung@gmail.com. I would be happy to answer any inquiries you might have, and always appreciate meeting new people.
 
+>## Music
+Here is a playlist of my all-time greatest songs, which might provide some insight into what kind of person I am. 
+{{< rawhtml >}}
+    <div>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vYCiBGwbPpkxCtVaefZlG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+    </div>
+{{< /rawhtml >}}
+
+>## Movies/TV
+This will display my most recently watched movie or TV show. [Here](https://trakt.tv/users/jeffreyjsung) is a full list of everything I've ever watched if anyone wants to know.
+{{< rawhtml >}}
+    <div>
+        <img src="https://trakt-widgets.herokuapp.com/jeffreyjsung/watched/banner" alt="trakt-widget" />
+    </div>
+{{< /rawhtml >}}
+P.S. That list does not include any anime - [this](https://anilist.co/user/myst/) is me. If you know, you know.
+
 >## Relevant Coursework
 Here I am going to talk briefly about the upper-division courses I have taken at UC Berkeley and my honest thoughts on them, for any students (or others) who are curious. I tried to take courses on a variety of topics instead of specializing in one area.
 #### DATA 100: Principles and Techniques of Data Science
@@ -29,11 +46,3 @@ I thought I would enjoy this course more, but it is pretty dull, I'm not going t
 This course is pretty overrated, in my opinion. Exams were extremely difficult and confusing for no reason other than to lower the curve. Projects were kind of cool but honestly didn't really require much thinking (basically fill-in-the-blank Python). I didn't feel like I really gained any useful knowledge coming out of this class.
 #### CS 189: Machine Learning
 Don't expect to succeed in this course without a significant amount of prior preparation/knowledge. Do not even attempt this course if you are not very familiar with probability and doing abstract math in higher dimensions. A lot of it is really just understanding the mathematical concepts and jargon that is constantly thrown around. The rest is figuring out how to vectorize NumPy code (real annoying, in my opinion). The material itself is interesting, but without the correct background you'll just be struggling through the math instead of really learning anything.
-
->## Music
-Here is a playlist of my all-time greatest songs, which might provide some insight into what kind of person I am. 
-{{< rawhtml >}}
-    <div>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vYCiBGwbPpkxCtVaefZlG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-    </div>
-{{< /rawhtml >}}

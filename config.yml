@@ -1,6 +1,6 @@
 baseURL: 'https://jeffreysung.xyz'
 title: Jeffrey Sung
-paginate: 5
+paginate: 999
 theme: PaperMod
 
 enableInlineShortcodes: true
