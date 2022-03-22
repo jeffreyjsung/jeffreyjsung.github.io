@@ -16,9 +16,10 @@ Here is a playlist of my all-time greatest songs, which might provide some insig
 {{< /rawhtml >}}
 
 >## Cinema
-{{< rawhtml >}}
-<img src="https://trakt-widgets.herokuapp.com/jeffreysung/watched/banner" alt="trakt-widget" />
-{{< /rawhtml >}}
+What I've been watching:
+
+![Trakt](https://trakt-widgets.herokuapp.com/jeffreysung/watched/poster#center)
+
 
 {{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}} is a full list of every film or TV show I've ever watched if anyone wants to know.
 
