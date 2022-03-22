@@ -16,7 +16,7 @@ Here is a playlist of my all-time greatest songs, which might provide some insig
 {{< /rawhtml >}}
 
 >## Movies/TV
-Here is a full list of everything I've ever watched if anyone wants to know.
+{{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}}  is a full list of everything I've ever watched if anyone wants to know.
 
 {{< rawhtml >}}
     <style>
