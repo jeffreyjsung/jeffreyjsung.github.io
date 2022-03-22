@@ -15,21 +15,15 @@ Here is a playlist of my all-time greatest songs, which might provide some insig
     </div>
 {{< /rawhtml >}}
 
->## Movies/TV
-{{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}}  is a full list of everything I've ever watched if anyone wants to know.
-
+>## Cinema
 {{< rawhtml >}}
-    <style>
-        img[src$="centerme"] {
-            text-align: center;
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
+<img src="https://trakt-widgets.herokuapp.com/jeffreysung/watched/banner" alt="trakt-widget" />
 {{< /rawhtml >}}
-![Trakt Profile](https://trakt-widgets.herokuapp.com/jeffreysung/profile/poster?style=centerme)
+
+{{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}} is a full list of everything I've ever watched if anyone wants to know.
 
 P.S. That list does not include any anime - {{< rawhtml >}}<a href="https://anilist.co/user/myst/" target="_blank">this</a>{{< /rawhtml >}} is me. If you know, you know.
+
 
 >## Relevant Coursework
 Here I am going to talk briefly about the upper-division courses I have taken at UC Berkeley and my honest thoughts on them, for any students (or others) who are curious. I tried to take courses on a variety of topics instead of specializing in one area.
