@@ -3,28 +3,27 @@ title: "Connect"
 url: "/connect/"
 draft: false
 ---
-I'm just going to be adding miscellaneous things about myself under here — a pseudo-blog.
+I'm just going to be adding miscellaneous things about myself under here — a pseudo-blog. *Also a place where I can practice my HTML/CSS skills and hopefully make the page more interactive and interesting to scroll through*.
 >## Contact
 The best method of contacting me is simpling emailing me at jeffjsung@gmail.com. I would be happy to answer any inquiries you might have, and always appreciate meeting new people.
 
->## Music
-Here is a playlist of my all-time greatest songs, which might provide some insight into what kind of person I am. 
-{{< rawhtml >}}
-    <div>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vYCiBGwbPpkxCtVaefZlG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-    </div>
-{{< /rawhtml >}}
-
 >## Cinema
-What I've been watching:
+This will always display the last thing I watched:
 
-![Trakt](https://trakt-widgets.herokuapp.com/jeffreysung/watched/poster#center)
+![Trakt](https://trakt-widgets.herokuapp.com/jeffreysung/watched/card?language=en#center)
 
 
 {{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}} is a full list of every film or TV show I've ever watched if anyone wants to know.
 
 P.S. The above does not include any anime — {{< rawhtml >}}<a href="https://anilist.co/user/myst/" target="_blank">this</a>{{< /rawhtml >}} is my account if you're into that. If you know, you know.
 
+>## Music
+This is a playlist of my all-time greatest songs, which might provide some insight into what kind of person I am. 
+{{< rawhtml >}}
+    <div>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vYCiBGwbPpkxCtVaefZlG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+    </div>
+{{< /rawhtml >}}
 
 >## Relevant Coursework
 Here I am going to talk briefly about the upper-division courses I have taken at UC Berkeley and my honest thoughts on them, for any students (or others) who are curious. I tried to take courses on a variety of topics instead of specializing in one area.
