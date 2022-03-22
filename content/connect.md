@@ -3,7 +3,7 @@ title: "Connect"
 url: "/connect/"
 draft: false
 ---
-
+I'm just going to be adding miscellaneous things about myself under here — a pseudo-blog.
 >## Contact
 The best method of contacting me is simpling emailing me at jeffjsung@gmail.com. I would be happy to answer any inquiries you might have, and always appreciate meeting new people.
 
@@ -20,9 +20,9 @@ Here is a playlist of my all-time greatest songs, which might provide some insig
 <img src="https://trakt-widgets.herokuapp.com/jeffreysung/watched/banner" alt="trakt-widget" />
 {{< /rawhtml >}}
 
-{{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}} is a full list of everything I've ever watched if anyone wants to know.
+{{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}} is a full list of every film or TV show I've ever watched if anyone wants to know.
 
-P.S. That list does not include any anime - {{< rawhtml >}}<a href="https://anilist.co/user/myst/" target="_blank">this</a>{{< /rawhtml >}} is me. If you know, you know.
+P.S. The above does not include any anime — {{< rawhtml >}}<a href="https://anilist.co/user/myst/" target="_blank">this</a>{{< /rawhtml >}} is my account if you're into that. If you know, you know.
 
 
 >## Relevant Coursework
