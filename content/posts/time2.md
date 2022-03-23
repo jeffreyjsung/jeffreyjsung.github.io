@@ -1,7 +1,7 @@
 ---
 title: "🚀  TIME II"
 weight: 1
-date: Ongoing
+date: TBD
 tags: []
 author: "Space Technologies at Cal"
 showToc: true
@@ -9,8 +9,8 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Second iteration of the Interstellar Microgravity Experiments."
-summary: The Interstellar Microgravity Experiments II.
+description: "Second iteration of The Interstellar Microgravity Experiments."
+summary: Second iteration of The Interstellar Microgravity Experiments.
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -26,3 +26,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
+## Summary
+### Main Idea
+TIME II is a small payload that is designed for a [Blue Origin](https://www.blueorigin.com/) New Shepard flight. The goal is to automatically conduct several biological experiments while in a microgravity environment.
+### Payload Specifications

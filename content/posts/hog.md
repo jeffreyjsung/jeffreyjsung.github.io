@@ -9,7 +9,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Includes my own opposing strategy that can be played against."
-summary: Includes my own oppposing strategy that can be played against.
+summary: Includes my own opposing strategy that can be played against.
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -32,4 +32,4 @@ To spice up the game, we play with some special rules:
 - Feral Hogs. If the number of dice you roll is exactly 2 away (absolute difference) from the number of dice you rolled on the previous turn, you get 3 extra points for the turn. Treat the turn before the first turn as rolling 0 dice.
 
 ## Summary
-My first project! Demonstrates use of control statements together with higher-order functions. GUI done using Tkinter.
+My first ever project! Demonstrates use of control statements together with higher-order functions.

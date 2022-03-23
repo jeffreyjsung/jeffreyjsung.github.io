@@ -3,7 +3,7 @@ title: "Connect"
 url: "/connect/"
 draft: false
 ---
-I'm just going to be adding miscellaneous things about myself under here — a pseudo-blog. *Also a place where I can practice my HTML/CSS skills and hopefully make the page more interactive and interesting to scroll through*.
+I'm just going to be adding miscellaneous things about myself under here — a pseudo-blog. *Also a place where I can practice my HTML/CSS skills and hopefully make the page more interactive and interesting to scroll through* :laughing:
 >## Contact
 The best method of contacting me is simpling emailing me at jeffjsung@gmail.com. I would be happy to answer any inquiries you might have, and always appreciate meeting new people.
 
