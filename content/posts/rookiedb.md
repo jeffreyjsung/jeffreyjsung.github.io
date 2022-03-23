@@ -1,6 +1,18 @@
 ---
-title: "Rookiedb"
-date: 2022-03-22T15:33:21-07:00
-draft: true
+title: "💽  RookieDB"
+weight: 1
+date:
+tags: ["Java"]
+author: "Database Systems"
+description: "A basic database implementation."
+summary: A basic database implementation.
+draft: false
 ---
+## B+ Trees
+
+## Joins and Query Optimization
+
+## Concurrency
+
+## Recovery
 

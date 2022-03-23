@@ -3,7 +3,7 @@ title: "↖️  Signpost: The Puzzle Game"
 date: 2020-02-18T11:30:03+00:00
 tags: ["Java"]
 author: "Data Structures"
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -25,3 +25,8 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
+## About the Game
+The goal of the game is to move around and connect all the squares together into a sequence, so that every square's arrow points towards the square that follows it (though the next square can be any distance away in that direction).
+
+## Summary
+My first real project done in Java.

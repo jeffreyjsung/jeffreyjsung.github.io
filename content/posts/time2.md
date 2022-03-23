@@ -28,5 +28,9 @@ cover:
 ---
 ## Summary
 ### Main Idea
-TIME II is a small payload that is designed for a [Blue Origin](https://www.blueorigin.com/) New Shepard flight. The goal is to automatically conduct several biological experiments while in a microgravity environment.
+TIME II is a small payload that is designed for a {{< rawhtml >}}<a href="https://www.blueorigin.com/" target="_blank">Blue Origin</a>{{< /rawhtml >}} New Shepard flight. The goal is to automatically conduct several biological experiments while in a microgravity environment.
 ### Payload Specifications
+
+## Design
+### Hardware
+### Software
