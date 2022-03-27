@@ -3,7 +3,7 @@ title: "⚙️  Enigma Machine Simulator"
 date: 2020-03-12T11:30:03+00:00
 tags: ["Java"]
 author: "Data Structures"
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -25,3 +25,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
+## Summary
+{{< rawhtml >}}<a href="https://en.wikipedia.org/wiki/Enigma_machine" target="_blank">Here</a>{{< /rawhtml >}} is the Wikipedia page on Enigma machines if you are not familiar with them.
+
+This program simulates how they would work. There were several versions of the Enigma machines, and this program works for any kind (and even new ones you can make up). It takes an input of possible inital configurations of the machines and messages to encode or decode - an example is shown in the image above.
