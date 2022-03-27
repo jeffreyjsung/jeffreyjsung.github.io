@@ -10,7 +10,7 @@ The best method of contacting me is simpling emailing me at jeffjsung@gmail.com.
 >## Cinema
 This will always display the last thing I watched:
 
-![Trakt](https://trakt-widgets.herokuapp.com/jeffreysung/watched/card?language=en#center)
+![Trakt](https://trakt-widgets.herokuapp.com/jeffreysung/watched/banner?language=en#center)
 
 
 {{< rawhtml >}}<a href="https://trakt.tv/users/jeffreysung" target="_blank">Here</a>{{< /rawhtml >}} is a full list of every film or TV show I've ever watched if anyone wants to know.
@@ -24,17 +24,18 @@ This is a playlist of my all-time greatest songs, which might provide some insig
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2vYCiBGwbPpkxCtVaefZlG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
     </div>
 {{< /rawhtml >}}
+Also my {{< rawhtml >}}<a href="https://www.last.fm/user/myst0708" target="_blank">last.fm</a>{{< /rawhtml >}}.
 
 >## Relevant Coursework
 Here I am going to talk briefly about the upper-division courses I have taken at UC Berkeley and my honest thoughts on them, for any students (or others) who are curious. I tried to take courses on a variety of topics instead of specializing in one area.
 #### DATA 100: Principles and Techniques of Data Science
 A very "applied" course - it is extremely useful to know how to visualize and interpret data. Also a very basic overview of some machine learning concepts, but the biggest takeaway from this course was the former.
 #### DATA 140: Probability for Data Science
-This course was actually very good material-wise and has a pretty great textbook. It allowed me to understand the probability that popped up in CS 189 very easily. Definitely not a walk in the park, though. You're expected to work through and derive a lot of things on your own.
+This course was actually very good material-wise and has a pretty great textbook. It allowed me to understand the probability that popped up in CS 189 very easily. Definitely not a walk in the park, though. You're expected to work through and derive a lot of things on your own. I learned much more taking this than I ever did in CS 70.
 #### IEOR 160: Nonlinear and Discrete Optimization
 A decent introduction to optimization. Not nearly as in depth as EECS 127 would be, but I think it's just enough to understand how it ties in with machine learning, which was basically my reason for taking it.
 #### IEOR 162: Linear Programming and Network Flows
-Sorry, but this course is just kind of bad. It's just not very interesting or useful in my opinion and much of the homework is just tedious instead of reinforcing any real ideas. CS 170 covers linear programming and network flows briefly, and honestly I got more out of that than from this course.
+Sorry, but this course is just kind of bad. It's just not very interesting in my opinion and much of the homework is just tedious instead of reinforcing any real ideas. CS 170 covers linear programming and network flows briefly, and honestly I got more out of that than from this course.
 #### CS 161: Computer Security
 I really enjoyed this course. It isn't overly difficult for the sake of being difficult and had fun, open-ended projects. It is also one of the few classes which actually teaches you about networking and the Internet, which (ironically) is a topic a lot of UC Berkeley students never formally learn, even though it would seem foundational in a computer science curriculum.
 #### CS 162: Operating Systems
