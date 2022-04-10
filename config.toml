@@ -116,21 +116,21 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
+title = "Facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/jeffreyjsung/"
 
 [[params.social]]
-title = "instagram"
+title = "Instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/jeffreyjsung/"
 
 [[params.social]]
-title = "github"
+title = "GitHub"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/jeffreyjsung"
 
 [[params.social]]
-title = "linkedin"
+title = "Linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/jeffreyjsung/"

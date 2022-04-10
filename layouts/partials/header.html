@@ -2,13 +2,14 @@
 <header class="navigation">
   <div class="container">
     <!-- navbar -->
-    <nav class="navbar navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
-      <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}"><img class="img-fluid" width="40%"
-          src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
-        <i class="ti-menu"></i>
-      </button>
-
+    <nav class="navba navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
+      <div class="d-flex ml-auto">
+        <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}"><img class="img-fluid" width="40%"
+            src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
+        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+          <i class="ti-menu" ></i>
+        </button>
+      </div>
       <div class="collapse navbar-collapse text-center" id="navigation">
         <div class="desktop-view">
           <ul class="navbar-nav mr-auto">
