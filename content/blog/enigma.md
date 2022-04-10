@@ -17,7 +17,7 @@ tags:
   - "Java"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 ### Summary

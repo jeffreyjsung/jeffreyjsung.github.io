@@ -1,22 +1,19 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Philphix"
+date: 2021-02-08T10:07:47+06:00
 draft: true
 
 # post thumb
 image: "images/post/post-3.jpg"
 
 # meta description
-description: "this is meta description"
+description: "CS61C Philphix Project"
 
 # taxonomies
 categories: 
-  - "Programming Language"
+  - "Computer Architecture"
 tags:
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "C"
 
 # post type
 type: "post"

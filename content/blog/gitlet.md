@@ -1,23 +1,19 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Gitlet"
+date: 2020-05-04T10:07:47+06:00
 draft: true
 
 # post thumb
-image: "images/post/post-6.jpg"
+image: "images/gitlet.jpg"
 
 # meta description
-description: "this is meta description"
+description: "CS61B Gitlet Project"
 
 # taxonomies
 categories: 
-  - "Python"
+  - "Data Structures"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "Java"
 
 # post type
 type: "post"
