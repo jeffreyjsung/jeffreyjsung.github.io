@@ -15,7 +15,7 @@ author: "Angela Chen, Dean Zhang, Jeffrey Sung, & Katherine Lee"
 categories: 
   - "Game Development and Design"
 tags:
-  - "C#"
+  - "C Sharp"
   - "Game"
   - "Unity"
 
