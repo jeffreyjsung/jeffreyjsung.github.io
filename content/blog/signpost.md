@@ -9,6 +9,7 @@ image: "images/signpost.jpeg"
 # meta description
 description: "CS61B LOA Project"
 summary: "Generates puzzles and allows user to solve them."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

@@ -9,6 +9,7 @@ image: "images/loa.jpeg"
 # meta description
 description: "CS61B LOA Project"
 summary: "Complete with an opposing AI."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

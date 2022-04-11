@@ -9,6 +9,7 @@ image: "images/hog.jpg"
 # meta description
 description: "this is meta description"
 summary: "Includes my own opposing strategy that can be played against."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories:

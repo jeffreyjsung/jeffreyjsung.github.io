@@ -8,6 +8,7 @@ image: "images/"
 
 # meta description
 description: "this is meta description"
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

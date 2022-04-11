@@ -8,6 +8,9 @@ image: "images/gitlet.jpg"
 
 # meta description
 description: "CS61B Gitlet Project"
+sumamary: ""
+author: "Jeffrey Sung"
+
 
 # taxonomies
 categories: 

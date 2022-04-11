@@ -9,6 +9,7 @@ image: "images/classify.jpeg"
 # meta description
 description: "CS61C CS61Classify Project"
 summary: "A simple artificial neural network written only using RISC-V."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

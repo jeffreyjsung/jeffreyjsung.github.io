@@ -9,6 +9,7 @@ image: "images/cats.jpeg"
 # meta description
 description: "CS61A CATS Project"
 summary: "Inspired by TypeRacer."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

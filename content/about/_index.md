@@ -21,4 +21,4 @@ Welcome to my spot on the web for the projects I've created - a compendium of th
 I'm still discovering new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.
 
 
-This will also serve as a sort of pseudo-blog, where I may note miscellaneous things about myself.
+You may also find random miscellaneous things about myself here.

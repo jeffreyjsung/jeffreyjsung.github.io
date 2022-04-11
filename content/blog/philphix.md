@@ -8,6 +8,7 @@ image: "images/post/post-3.jpg"
 
 # meta description
 description: "CS61C Philphix Project"
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

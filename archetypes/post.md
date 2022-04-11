@@ -8,6 +8,8 @@ image: "images/post/post-4.jpg"
 
 # meta description
 description: "this is meta description"
+summary: "summary"
+author: "Author Name(s)"
 
 # taxonomies
 categories: 

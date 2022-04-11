@@ -9,6 +9,7 @@ image: "images/enigma.jpeg"
 # meta description
 description: "CS61B Enigma Project"
 summary: "A generalized version of the machines used by Germany to encrypt its communications during WWII."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

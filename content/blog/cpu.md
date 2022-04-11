@@ -8,6 +8,8 @@ image: "images/cpu.jpeg"
 
 # meta description
 description: "CS61C Logisim Project"
+summary: "Designed two-stage pipelined CPU that runs the full RISC-V instruction set."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

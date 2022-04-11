@@ -9,6 +9,7 @@ image: "images/ants.jpeg"
 # meta description
 description: "CS61A Ants Project"
 summary: "Inspired by the game Plants vs. Zombies."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

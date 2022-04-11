@@ -9,6 +9,7 @@ image: "images/pacman_game.gif"
 # meta description
 description: "CS188 Pac-Man Projects"
 summary: "Implemented an array of AI techniques to playing Pac-Man."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 

@@ -9,6 +9,7 @@ image: "images/scheme.jpeg"
 # meta description
 description: "CS61A Scheme Project"
 summary: "Python interpreter for the Scheme programming language."
+author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
