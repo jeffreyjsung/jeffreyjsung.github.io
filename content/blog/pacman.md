@@ -18,7 +18,7 @@ tags:
   - "Python"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 ### Search

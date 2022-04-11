@@ -18,5 +18,5 @@ tags:
   - "Web"
 
 # post type
-type: "post"
+type: "featured"
 ---

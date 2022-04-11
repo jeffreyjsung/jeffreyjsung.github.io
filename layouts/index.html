@@ -4,9 +4,9 @@
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-10 featured-post-slider">
+      <div class="col-10 featured-post-slider"> 
         <!-- slider item -->
-        {{ range ( where .Site.RegularPages "Type" "featured" )}}
+        {{ range first 3 ( where .Site.RegularPages "Type" "featured" )}}
         <article class="card featured-post">
           <div class="row no-gutters align-items-center">
             <div class="col-md-5">
@@ -41,7 +41,7 @@
 <section>
   <div class="container">
     <div class="row">
-      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
+      {{ range first 3 (where .Site.RegularPages "Type" "recent")}}
       <div class="col-lg-4 small-post-border">
         <article class="media">
           {{ if .Params.Image }}
@@ -67,7 +67,6 @@
 <!-- /recent post -->
 
 <!-- blog post -->
-<section class="section pb-0">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
@@ -110,7 +109,6 @@
       </div>
     </div>
   </div>
-</section>
 <!-- /blog post -->
 
 {{ end }}
