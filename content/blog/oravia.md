@@ -20,5 +20,5 @@ tags:
   - "Unity"
 
 # post type
-type: "post"
+type: "featured"
 ---

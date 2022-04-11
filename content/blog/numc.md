@@ -20,5 +20,5 @@ tags:
   - "Parallel Programming"
 
 # post type
-type: "post"
+type: "featured"
 ---
