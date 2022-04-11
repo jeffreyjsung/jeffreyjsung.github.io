@@ -22,6 +22,6 @@ type: "post"
 ---
 
 ### Summary
-A simple tool that measures your typing speed. Basically the same as {{< rawhtml >}} <a href="https://play.typeracer.com/" target="_blank">TypeRacer</a> {{< /rawhtml >}}if you are familiar with that, except it comes with the option to have autocorrect on. 
+A simple tool that measures your typing speed. Basically the same as {{< rawhtml >}} <a href="https://play.typeracer.com/" rel="noopener noreferrer" target="_blank">TypeRacer</a> {{< /rawhtml >}}if you are familiar with that, except it comes with the option to have autocorrect on. 
 
-The finished product can be interacted with at {{< rawhtml >}}<a href="https://cats.cs61a.org/" target="_blank">cats.cs61a.org</a>{{< /rawhtml >}}.
+The finished product can be interacted with at {{< rawhtml >}}<a href="https://cats.cs61a.org/" rel="noopener noreferrer" target="_blank">cats.cs61a.org</a>{{< /rawhtml >}}.

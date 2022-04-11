@@ -83,8 +83,8 @@ home = "Home"
 # Meta data
 description = "My name is Jeffrey Sung"
 author = "Jeffrey Sung"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
+# Google Analytics
+googleAnalyticsID = 'G-KBSC59NPPN'
 # Contact Information
 mobile = "(949) 482-9408"
 email = "jeffjsung@gmail.com"
