@@ -1,3 +1,3 @@
 # Repo for My Personal Website
 
-[jeffreysung.xyz](https://jeffreysung.xyz)
+Built using Hugo and Bootstrap.
