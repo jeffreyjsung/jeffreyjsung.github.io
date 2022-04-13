@@ -4,15 +4,15 @@ date: 2022-01-29T10:07:47+06:00
 draft: true
 
 # post thumb
-image: "images/"
+image: "images/stac.jpg"
 
 # meta description
-description: "this is meta description"
+description: "STAC project"
 author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
-  - "Space Technologies at Cal"
+  - "Space Technologies"
 tags:
 
 # post type
