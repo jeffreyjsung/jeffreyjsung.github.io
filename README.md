@@ -1,1 +1,3 @@
-# Repo for my personal website
+# Repo for My Personal Website
+
+Built using Hugo and Bootstrap.
