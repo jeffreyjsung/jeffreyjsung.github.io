@@ -22,3 +22,12 @@ tags:
 # post type
 type: "post"
 ---
+### Summary 
+This is my implementation of the matrix calculation features of the popular Python library NumPy. It is not exactly as efficient, but it is much faster than a naive implementation.  
+
+What I did: 
+- Defined a matrix struct and code mathematically optimal matrix functions 
+- Wrote setup file to install custom module
+- Wrote Python-C interface
+- Sped up computation by doing conventional code optimizations (inlining functions, manual loop unrolling, etc.)
+- Optimized matrix functions further by utilizing SIMD instructions and OpenMP

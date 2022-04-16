@@ -29,4 +29,13 @@ To spice up the game, we play with some special rules:
 - Feral Hogs. If the number of dice you roll is exactly 2 away (absolute difference) from the number of dice you rolled on the previous turn, you get 3 extra points for the turn. Treat the turn before the first turn as rolling 0 dice.
 
 ### Summary
-My first ever project! Demonstrates use of control statements together with higher-order functions.
+My first ever project! Demonstrates use of control statements together with higher-order functions.   
+
+Here is what I implemented:
+- simulate a dice roll for each turn
+- keeping track of each players' score 
+- constraints/multipliers according to game rules
+- commentary functions that print out remarks about the game after each turn, such as:  
+`22 points! That's the biggest gain yet for Player 1.`
+- different strategies for playing the game to optimize chances of winning
+

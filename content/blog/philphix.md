@@ -28,4 +28,9 @@ This replacement set consists of pairs of “words” (separated by an arbitrary
 The text shown at the top of the page would be converted into this if the above replacement set was given:  
 {{< rawhtml >}} <br><img src="/images/after.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}  
 
+This was my introduction to programming in C - here is what I learned in a nutshell:
+- Use the C file input/output library
+- Do memory allocation
+- Manipulate strings
+
 

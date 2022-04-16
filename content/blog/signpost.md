@@ -26,4 +26,10 @@ type: "post"
 The goal of the game is to move around and connect all the squares together into a sequence, so that every square's arrow points towards the square that follows it (though the next square can be any distance away in that direction).
 
 ### Summary
-My first real project done using Java.
+My first Java project.  
+
+What I implemented: 
+- Classes to represent the state of a board and the rules in which in may be modified
+- Random generation of puzzles
+- A view of the puzzle (GUI)
+- Controller which translates user actions into operations

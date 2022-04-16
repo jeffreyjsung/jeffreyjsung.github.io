@@ -23,4 +23,7 @@ type: "featured"
 ### Task
 The goal of this project was to exploit a poorly designed website and find various vulnerabilities in the web servers.  
 
-Hacking techniques I used include: SQL injection, cross-site scripting (XXS), and rainbow table attacks for password hashes.
+Hacking techniques I used include:  
+- SQL injection
+- Cross-site scripting (XXS)
+- Rainbow table attacks for password hashes
