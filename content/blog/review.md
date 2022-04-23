@@ -1,6 +1,6 @@
 ---
 title: "UC Berkeley Course Reviews"
-date: 2022-04-13T10:07:47+06:00
+date: 
 draft: true
 
 # post thumb

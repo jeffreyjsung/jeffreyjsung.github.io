@@ -4,22 +4,18 @@ date: 2021-12-13T10:07:47+06:00
 draft: true
 
 # post thumb
-image: "images/post/post-4.jpg"
+image: "images/covid.jpeg"
 
 # meta description
-description: "this is meta description"
+description: "DATA100 Final Project"
 summary: "summary"
 author: "Jeffrey Sung & Binhan Hua"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "Data Science"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
   - "Python"
-  - "New"
 
 # post type
 type: "post"

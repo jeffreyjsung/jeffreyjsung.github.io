@@ -1,19 +1,19 @@
 ---
-title: "TIME II"
-date: 2022-06-29T10:07:47+06:00
+title: "SIXT33N"
+date: 2020-04-30T10:07:47+06:00
 draft: true
 
 # post thumb
-image: "images/stac.jpg"
+image: "images/SIXT33N.jpeg"
 
 # meta description
-description: "STAC project"
-summary: "The Interstellar Microgravity Experiments II."
+description: "EECS16B Final Project"
+summary: "Voice-activated mobile robot."
 author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
-  - "Space Technologies"
+  - "Designing Information Systems and Devices"
 tags:
   - "Electrical Engineering"
 

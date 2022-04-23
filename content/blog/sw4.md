@@ -1,21 +1,22 @@
 ---
-title: "TIME II"
-date: 2022-06-29T10:07:47+06:00
+title: "3D Ground-Motion Simulations of Moderate Earthquakes on the Hayward Fault"
+date: 2022-05-02T10:07:47+06:00
 draft: true
 
 # post thumb
-image: "images/stac.jpg"
+image: "images/sw4.jpeg"
 
 # meta description
-description: "STAC project"
-summary: "The Interstellar Microgravity Experiments II."
-author: "Jeffrey Sung"
+description: "Data Science Discovery Project"
+summary: "Quantifying potential bias of seismic velocity model prediction data to improve accuracy of future simulations."
+author: "Jeffrey Sung & Julie Hoang"
 
 # taxonomies
 categories: 
-  - "Space Technologies"
+  - "Data Science"
 tags:
-  - "Electrical Engineering"
+  - "Python"
+  - "Research"
 
 # post type
 type: "post"

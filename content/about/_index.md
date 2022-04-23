@@ -16,6 +16,6 @@ type : "about"
 Hey there, I'm Jeffrey!   
 
 
-I'm currently an undergraduate student studying data and computer science at UC Berkeley.
+I'm currently an undergraduate student studying data science and electrical engineering + computer science (EECS) at UC Berkeley.
 Welcome to my spot on the web for the projects I've created - a compendium of the things I've learned over the years. 
-I'm still discovering new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.
+I'm still discovering new things within the field of technology and on a mission to learn it all, from digital design to machine learning.

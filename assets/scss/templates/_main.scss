@@ -12,7 +12,7 @@
 
   &-img {
     object-fit: cover;
-    max-width:300px;
+    width:300px;
     height:300px;
     border-radius: 50%;
     background-position: center center;
@@ -26,8 +26,11 @@
 .featured-post {
   .card-title {
     margin-left: -10%;
-
     @include tablet {
+      margin-left: 0;
+      font-size: 30px;
+    }
+    @include desktop {
       margin-left: 0;
       font-size: 30px;
     }
