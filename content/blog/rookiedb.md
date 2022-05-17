@@ -1,6 +1,6 @@
 ---
 title: "RookieDB"
-date: 2022-04-13T10:07:47+06:00
+date: 2022-05-01T10:07:47+06:00
 draft: true
 
 # post thumb
@@ -8,7 +8,7 @@ image: "images/locks.jpg"
 
 # meta description
 description: "CS186 DBMS Project"
-summary: "A bare-bones database implementation."
+summary: "A relational database implementation."
 author: "Jeffrey Sung & Erik Li"
 
 # taxonomies
@@ -20,3 +20,10 @@ tags:
 # post type
 type: "post"
 ---
+### B+ Trees
+
+### Joins and Query Optimization
+
+### Concurrency
+
+### Recovery

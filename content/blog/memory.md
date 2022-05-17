@@ -16,7 +16,6 @@ categories:
   - "Computer Security"
 tags:
   - "C"
-  - "x86"
 
 # post type
 type: "post"
