@@ -1,6 +1,6 @@
 ---
 title: "Amazon Profiles / Core Recommendations"
-date: 2022-08-12T10:07:47+06:00
+date: 2022-06-12T10:07:47+06:00
 draft: false
 
 # post thumb
