@@ -1,7 +1,7 @@
 ---
 title: "RookieDB"
 date: 2022-05-01T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/bnlj.gif"
