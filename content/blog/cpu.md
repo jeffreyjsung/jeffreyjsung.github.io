@@ -19,7 +19,7 @@ tags:
   - "CPU Design"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 ### Summary

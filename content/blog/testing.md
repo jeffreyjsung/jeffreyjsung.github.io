@@ -18,7 +18,7 @@ tags:
   - "Web"
 
 # post type
-type: "featured"
+type: "post"
 ---
 ### Task
 The goal of this project was to exploit a poorly designed website and find various vulnerabilities in the web servers.  

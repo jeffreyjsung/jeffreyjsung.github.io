@@ -18,7 +18,7 @@ tags:
   - "Go"
 
 # post type
-type: "post"
+type: "featured"
 ---
 ### Summary
 Designed and implemented the client application for a file sharing system (like Dropbox). It is secured with symmetric encryption, hashing, MACs, public key encryption, digital signatures, and password salting so even a malicious server with full control cannot tamper with any data.
