@@ -29,6 +29,6 @@ What I did:
 - Built an algorithm to efficiently retrieve and process browsing history data for specific users (for feeding into recommendation system)
 - Developed a strategy that uses the retrieved data and collaborative filtering to generate new, high quality product recommendations
 - Create UX template to render the recommended products in the front-end
-- Created new API method that would ensure restricted profile data could be safely encrypted and through downstream services to use for display
+- Created new API method that would ensure restricted profile data could be safely encrypted and sent through downstream services to use for display
 - Thoroughly test all new changes (unit, integration, performance, comparator tests)
 - A/B tested my new recommender to ensure its quality
