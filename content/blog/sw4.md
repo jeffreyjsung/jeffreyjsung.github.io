@@ -9,7 +9,7 @@ image: "images/sw4.jpg"
 # meta description
 description: "Data Science Discovery Project"
 summary: "Quantified potential bias of seismic velocity model prediction data to improve accuracy of future simulations."
-author: "Jeffrey Sung, Julie Hoang & Taka'aki Taira"
+author: "Julie Hoang, Jeffrey Sung & Taka'aki Taira"
 
 # taxonomies
 categories: 
