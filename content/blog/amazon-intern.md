@@ -13,7 +13,7 @@ author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
-  - "Internship"
+  - "Software Engineering"
 tags:
   - "Java"
   - "TypeScript"
