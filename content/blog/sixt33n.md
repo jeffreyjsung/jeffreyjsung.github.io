@@ -1,7 +1,7 @@
 ---
 title: "SIXT33N"
 date: 2020-04-30T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/SIXT33N.jpeg"
