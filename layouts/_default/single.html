@@ -16,6 +16,12 @@
           <span>{{ .PublishDate.Format "02 January 2006" }}</span>
           {{ end }}
         </div>
+          <ul class="list-inline">
+            {{- range $name := .Params.Tags }}
+            <li class="list-inline-item"><a class="d-block p-2 bg-primary text-white"
+                href="{{ `tags/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | lower }}</a></li>
+            {{- end }}
+          </ul>
         {{ if .Params.image }}
         <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
         {{ end }}
