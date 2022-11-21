@@ -1,10 +1,10 @@
 ---
 title: "TIME II"
-date: 2022-06-29T10:07:47+06:00
-draft: true
+date: 2022-12-16T10:07:47+06:00
+draft: false
 
 # post thumb
-image: "images/stac.jpg"
+image: "images/time2_pcb.jpeg"
 
 # meta description
 description: "STAC project"
@@ -13,153 +13,38 @@ author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
-  - "Space Technologies"
-tags:
   - "Electrical Engineering"
+tags:
+  - "Arduino"
+  - "PCB Design"
+  - "Python"
+  - "Research"
 
 # post type
 type: "post"
 ---
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+### Background
+Extended spaceflight is known to inhibit immune function, making astronauts more susceptible to illnesses like bacterial infection. Both in vitro and in vivo, bacteria have been shown to be more resistant to antibiotics in microgravity. Previously, it has been shown that E. coli have increased resistance to the antibiotic gentamycin in microgravity. Also, studies have shown that antibiotic use in simulated microgravity can cause persistent resistance to antibiotics. Our ultimate goal is to perform RNA-seq on the E. coli strain MG1655 after exposure to the antibiotic gentamicin in microgravity. However, we first plan to validate the results of these previous experiments in simulated microgravity with qPCR of known stress genes followed by RNA-seq.
 
-<hr>
+### Summary
+TIME II is a small (500g) payload that will be sent into space on a Blue Origin New Shepard flight; as it is experiencing microgravity, the payload will automatically begin to conduct our biological research experiments. I was part of the electrical engineering effort, whose role is to actually make everything work (collect experimental data, move motors, start experiment at correct time, temperature regulation, etc.).
 
-##### Emphasis
+{{< rawhtml >}} <br><img src="/images/time2_plate.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}  
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+### Hardware
+General task was to design a PCB that can:
+- Receive data through a USB connection
+- Constantly regulate temperature
+- Activate motors for different phases of the experiment
+- Write pertinent information to SD card
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-<hr>
-
-##### Link
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
-<hr>
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
-<hr>
-
-##### List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
-##### Unordered List
-
-* List item
-* List item
-* List item
-* List item
-* List item
-
-<hr>
-
-##### Code and Syntax Highlighting
-
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-
-<hr>
-
-##### Blockquote
-
-> This is a blockquote example.
-
-<hr>
-
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+### Software
+The main functions of the code are to:
+- Write each received packet from the NanoLab to the SD card
+- Monitor and maintain a consistent temperature inside the payload
+- Keep track of each phase of flight to run the experiment at the correct time
 
 
-<hr>
+We also created a Python program to simulate the packets that our payload would receive from Blue Origin during flight.
 
-##### Tables
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-<hr>
-
-##### Image
-
-![image](../../images/post/post-1.jpg)
-
-<hr>
-
-##### Youtube video
-
-{{< youtube C0DPdy98e4c >}}
