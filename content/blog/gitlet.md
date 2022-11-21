@@ -8,7 +8,7 @@ image: "images/gitlet.jpeg"
 
 # meta description
 description: "CS61B Gitlet Project"
-summary: "Version-control system that mimics some of the basic features of the popular system Git"
+summary: "Version-control system that mimics some of the basic features of the popular system Git."
 author: "Jeffrey Sung"
 
 

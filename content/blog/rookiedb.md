@@ -18,7 +18,7 @@ tags:
   - "Java"
 
 # post type
-type: "featured"
+type: "post"
 ---
 #### B+ Trees
 The first thing I implemented for database was B+ Tree indices. I implemented this data structure for use with our internal DataBox datatype. Also provided support for scans and bulk loading.
