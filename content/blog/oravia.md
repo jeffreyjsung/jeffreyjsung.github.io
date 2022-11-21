@@ -9,7 +9,7 @@ image: "images/oravia_menu.jpeg"
 # meta description
 description: "GDD Final Project"
 summary: "A 2.5D side-scrolling adventure game."
-author: "Angela Chen, Dean Zhang, Jeffrey Sung, & Katherine Lee"
+author: "Angela Chen, Katherine Lee, Jeffrey Sung & Dean Zhang"
 
 # taxonomies
 categories: 

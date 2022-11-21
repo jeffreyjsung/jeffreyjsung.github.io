@@ -16,8 +16,8 @@ categories:
   - "Computer Architecture"
 tags:
   - "C"
-  - "Python"
   - "Parallel Programming"
+  - "Python"
 
 # post type
 type: "post"

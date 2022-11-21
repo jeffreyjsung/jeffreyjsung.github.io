@@ -24,4 +24,4 @@ type: "post"
 ### Summary
 {{< rawhtml >}}<a href="https://en.wikipedia.org/wiki/Enigma_machine" rel="noopener noreferrer" target="_blank">Here</a>{{< /rawhtml >}} is the Wikipedia page on Enigma machines if you are not familiar with them.
 
-This program simulates how they would work. There were several versions of the Enigma machines, and this program works for any kind (and even new ones you can make up). It takes an input of possible inital configurations of the machines and messages to encode or decode - an example is shown in the image above.
+This program simulates how they would work. There were several versions of the Enigma machines, and this program works for any kind (and even new ones you can make up). It takes an input of possible inital configurations of the machines and messages to encode or decode - an example is shown in the image above. A lot of time was devoted to making sure the program can correctly parse configuration files.

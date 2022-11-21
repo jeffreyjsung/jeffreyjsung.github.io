@@ -15,8 +15,8 @@ author: "Jeffrey Sung"
 categories: 
   - "Data Structures"
 tags:
-  - "Java"
   - "Game"
+  - "Java"
 
 # post type
 type: "post"
