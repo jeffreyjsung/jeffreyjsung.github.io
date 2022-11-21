@@ -1,5 +1,5 @@
 ---
-title: "CPU Design for RISC-V ISA"
+title: "2-Stage Pipelined CPU Design for RISC-V ISA"
 date: 2021-04-12T10:07:47+06:00
 draft: false
 
