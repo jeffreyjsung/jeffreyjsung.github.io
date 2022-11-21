@@ -16,7 +16,6 @@ categories:
   - "Computer Architecture"
 tags:
   - "RISC-V"
-  - "Assembly"
 
 # post type
 type: "post"
