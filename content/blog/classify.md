@@ -13,7 +13,7 @@ author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
-  - "Computer Architecture"
+  - "Machine Structures"
 tags:
   - "RISC-V"
 

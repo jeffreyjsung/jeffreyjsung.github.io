@@ -1,5 +1,5 @@
 ---
-title: "Amazon Profiles / Core Recommendations"
+title: "Amazon Profiles"
 date: 2022-08-12T10:07:47+06:00
 draft: false
 
@@ -24,7 +24,7 @@ type: "post"
 --- 
 
 ### Summary
-I worked as a Software Development Engineer Intern under the Profiles Team at Amazon, also collaborating closely with the Core Recommendations Team. My project involved delivering a personalized recommendation widget that will be displayed on the Amazon retail website. Let Alice and Bob be two different profiles under the same Amazon customer account. While Alice is browsing the retail website, she would see widget titled "Gift Ideas for Bob", showing gift recommendations. Likewise, Bob would see "Gifts Ideas for Alice". I worked on both client-side and server-side software; the maing languages/tools I used were Java, TypeScript and AWS.
+I worked as a Software Development Engineer Intern under the Profiles Team at Amazon, also collaborating closely with the Core Recommendations Team. My project involved delivering a personalized recommendation widget that will be displayed on the Amazon retail website. Let Alice and Bob be two different profiles under the same Amazon customer account. While Alice is browsing the retail website, she would see widget titled "Gift Ideas for Bob", showing gift recommendations. Likewise, Bob would see "Gifts Ideas for Alice". I worked on both client-side and server-side software; the main languages/tools I used were Java, TypeScript and AWS.
 
 What I did:  
 - Built an algorithm to efficiently retrieve and process browsing history data for specific users (for feeding into recommendation system)

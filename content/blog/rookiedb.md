@@ -20,14 +20,14 @@ tags:
 # post type
 type: "post"
 ---
-#### B+ Trees
-The first thing I implemented for database was B+ Tree indices. I implemented this data structure for use with our internal DataBox datatype. Also provided support for scans and bulk loading.
+#### Summary
+RookieDB is a database implementation that supports simple transactions in series.
 
-#### Joins and Query Optimization
-Next, I implemented some common join algorthims (nested loops joins, hash joins, external sort, sort merge join) and a limited version of the Selinger optimizer. Plan space search for the database was implemented according to System R.
 
-#### Concurrency
-Then, I created lock types and the queueing system for locks, ensuring there are no conflicts.
-
-#### Recovery
-Finally, I implemented write-ahead logging and support for savepoints, rollbacks, and ACID compliant restart recovery.
+Features that I added include:
+- Data structure for B+ Tree indices
+- Support for scans and bulk loading
+- Common join algorithms (nested loop, hash, external sort, sort merge)
+- A version of the Selinger optimizer (plan space search) based on System R
+- Lock types and queuing system for locks
+- Write-ahead logging, savepoints, rollbacks, ACID-compliant restart recovery

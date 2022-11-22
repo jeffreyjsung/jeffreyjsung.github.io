@@ -1,5 +1,5 @@
 ---
-title: "Exploring COVID-19 Data Through Modeling"
+title: "Exploring COVID-19 Data"
 date: 2021-12-13T10:07:47+06:00
 draft: false
 

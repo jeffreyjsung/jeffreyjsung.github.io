@@ -1,10 +1,10 @@
 ---
-title: "3D Ground-Motion Simulations of Moderate Earthquakes on the Hayward Fault"
+title: "3D Ground-Motion Simulations"
 date: 2022-05-02T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/sw4.jpg"
+image: "images/sw4.jpeg"
 
 # meta description
 description: "Data Science Discovery Project"
@@ -19,7 +19,7 @@ tags:
   - "Research"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 ### Summary

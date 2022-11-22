@@ -13,7 +13,7 @@ author: "Jeffrey Sung"
 
 # taxonomies
 categories: 
-  - "Computer Architecture"
+  - "Machine Structures"
 tags:
   - "CPU Design"
   - "RISC-V"
@@ -23,7 +23,7 @@ type: "post"
 ---
 
 ### Summary
-The CPU is designed and created using Logisim. Supports the entire RISC-V ISA (all 32 registers, all ALU operations). 
+The CPU is designed and created from scratch using Logisim and supports the entire RISC-V ISA. A very insightful learning experience.
 
 The two stages of the pipeline are:
 >**1. Instruction Fetch**:  An instruction is fetched from the instruction memory.
