@@ -1,7 +1,7 @@
 ---
 title: "philphix"
 date: 2021-02-08T10:07:47+06:00
-draft: true
+draft: false
 
 # post thumb
 image: "images/before.jpeg"
@@ -32,5 +32,6 @@ This was my introduction to programming in C - here is what I learned in a nutsh
 - Use the C file input/output library
 - Do memory allocation
 - Manipulate strings
+- Test and debug using gdb
 
 
