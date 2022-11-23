@@ -385,3 +385,86 @@ footer a {
 }
 
 /* /markdown style */
+
+
+.aboutcontent {
+  * {
+    margin-bottom: 0px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 0px;
+  }
+
+  ol {
+    padding-left: 20px;
+  }
+
+  ul {
+    padding-left: 0;
+
+    li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 15px;
+      list-style-type: none;
+
+      &::before {
+        position: absolute;
+        content: "\e71b";
+        font-family: $icon-font;
+        font-size: px;
+        left: 0;
+        top: 1px;
+        color: $primary-color;
+        transition: .3s ease;
+      }
+    }
+  }
+}
+
+.aboutcontent2 {
+  * {
+    margin-bottom: 0px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 15px;
+  }
+
+  ol {
+    padding-left: 20px;
+  }
+
+  ul {
+    padding-left: 0;
+
+    li {
+      position: relative;
+      padding-left: 20px;
+      margin-bottom: 15px;
+      list-style-type: none;
+
+      &::before {
+        position: absolute;
+        content: "\e71b";
+        font-family: $icon-font;
+        font-size: 14px;
+        left: 0;
+        top: 1px;
+        color: $primary-color;
+        transition: .3s ease;
+      }
+    }
+  }
+}

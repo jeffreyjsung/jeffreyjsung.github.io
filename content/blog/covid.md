@@ -9,7 +9,7 @@ image: "images/covid.jpeg"
 # meta description
 description: "DATA100 Final Project"
 summary: "Modeled and analyzed the temporal evolution of COVID-19 cases and mortalities in the United States."
-author: "Jeffrey Sung & Binhan Hua"
+author: "Binhan Hua & Jeffrey Sung"
 
 # taxonomies
 categories: 
