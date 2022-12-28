@@ -9,7 +9,7 @@ image: "images/substorm.JPG"
 # meta description
 description: "Data Science Discovery Project"
 summary: "Determining characteristic features that precede substorms."
-author: "Harald Frey, Tatsuya Kuroshima, Jeffrey Sung, Anson Tiong, Marlo Zhang & Ashna Wadhwa"
+author: "Harald Frey, Ree Li, Tatsuya Kuroshima, Jeffrey Sung, Anson Tiong, Marlo Zhang & Ashna Wadhwa"
 
 # taxonomies
 categories: 

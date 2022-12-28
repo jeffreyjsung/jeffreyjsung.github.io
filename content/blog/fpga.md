@@ -1,7 +1,7 @@
 ---
 title: "3-Stage Pipelined RISC-V CPU"
 date: 2022-12-12T10:07:47+06:00
-draft: false
+draft: true
 
 # post thumb
 image: "images/fpga.jpeg"
@@ -41,3 +41,4 @@ The three stages of the pipeline are:
 ### Branch Predictor
 
 ### Optimization
+We were able to get our CPU running at a clock frequency of 105MHz by reducing the critical path of the Execute stage. 
