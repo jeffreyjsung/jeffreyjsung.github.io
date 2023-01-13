@@ -88,7 +88,7 @@ googleAnalyticsID = 'G-KBSC59NPPN'
 # Contact Information
 mobile = "(949) 482-9408"
 email = "jeffjsung@gmail.com"
-location = "Berkeley, California"
+location = "Ladera Ranch, California"
 # copyright
 copyright = "| &copy; 2022 Jeffrey Sung All Rights Reserved |"
 
@@ -110,20 +110,15 @@ content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam non
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 
 ############################# social site ########################
 [[params.social]]
-title = "Facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "https://www.facebook.com/jeffreyjsung/"
-
-[[params.social]]
-title = "Instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/jeffreyjsung/"
+title = "Linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "https://www.linkedin.com/in/jeffreyjsung/"
 
 [[params.social]]
 title = "GitHub"
@@ -131,6 +126,6 @@ icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/jeffreyjsung"
 
 [[params.social]]
-title = "Linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/in/jeffreyjsung/"
+title = "Instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/jeffreyjsung/"

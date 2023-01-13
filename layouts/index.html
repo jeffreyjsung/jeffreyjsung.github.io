@@ -1,11 +1,10 @@
 {{ define "main" }}
-
 <!-- featured post -->
-<section class="section-sm">
+<!-- <section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-10 featured-post-slider"> 
-        <!-- slider item -->
+      <div class="col-10 featured-post-slider">
+        
         {{ range first 3 ( where .Site.RegularPages "Type" "featured" )}}
         <article class="card featured-post">
           <div class="row no-gutters align-items-center">
@@ -34,7 +33,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 <!-- /featured post -->
 
 <!-- recent post -->
@@ -65,6 +64,9 @@
   </div>
 </section>
 <!-- /recent post -->
+
+<br></br>
+<br></br>
 
 <!-- blog post -->
   <div class="container">

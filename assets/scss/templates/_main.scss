@@ -6,8 +6,11 @@
   &-header,
   &-footer,
   &-img-top {
+    object-fit: cover;
+    width:350px;
+    height:350px;
     border: 0;
-    border-radius: 0;
+    border-radius: 15%;
   }
 
   &-img {
@@ -181,7 +184,6 @@
 .widget2 {
   text-align: center;
   margin-bottom:15px;
-
   &-title {
     display: inline-block;
     border-top: .5px solid $primary-color;
