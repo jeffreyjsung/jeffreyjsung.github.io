@@ -19,7 +19,7 @@ tags:
   - "Research"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 ### Summary
