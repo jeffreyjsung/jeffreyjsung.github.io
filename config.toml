@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://jeffreysung.xyz/"
+baseURL = "https://jeffreyjsung.com/"
 languageCode = "en-us"
 title = "Jeffrey Sung"
 theme = "liva-hugo"
