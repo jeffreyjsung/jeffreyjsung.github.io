@@ -99,7 +99,7 @@ preloader = "" # use .png , .svg or .gif format
 
 # search
 [params.search]
-enable = true
+enable = false
 
 ############################ news letter ########################
 [params.newsletter]
