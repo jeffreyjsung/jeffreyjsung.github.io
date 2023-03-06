@@ -52,7 +52,8 @@ Welcome to my spot on the web for the projects I've created — a compendium of 
         I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered a new type of personalized recommendation widget to be displayed on the Amazon retail website. The main languages/tools I used were Java, TypeScript and AWS.
     </div>
 {{< /rawhtml >}} 
-- Built an algorithm to efficiently retrieve and process browsing history data for specific users (for feeding into recommendation system)
-- Developed a strategy that uses the retrieved data and collaborative filtering to generate new, high quality product recommendations
-- Constructed new API method and restructured backend service that would ensure restricted profile data could be safely encrypted and sent through downstream services to use for display
-- Created reusable UI components using Typescript and CSS to render recommendations alongside properly decrypted profile data in the front-end
+- Designed and coordinated with various other teams to deliver required components for profile-aware recommendations
+- Modified recommendation generation backend to account for profile-specific browsing history
+- Restructured API to return encrypted responses so other microservices could safely use restricted customer data
+- Devised framework for testing AWS CloudFormation infrastructure changes before deployment to stack
+- Created reusable UI components for rendering recommendations alongside profile data in the front-end, allowing for quick creation of new types of strategies
