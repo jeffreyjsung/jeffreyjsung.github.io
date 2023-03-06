@@ -3,10 +3,10 @@
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+      <div class="col-lg-10 mx-auto text-center">
+        <h3 class="widget-title">{{ .Title | markdownify }}</h3>
         {{ if .Params.Image }}
-        <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4" width="45%">
+        <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4" width="36%">
         {{ end }}
         <div class="content text-left">
           {{ .Content }}

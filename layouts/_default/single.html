@@ -3,7 +3,7 @@
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-10 mx-auto text-center">
         {{ range .Params.Categories }}
         <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
           class="text-primary">{{ . | title | humanize }}</a>
@@ -23,11 +23,14 @@
             {{- end }}
           </ul>
         {{ if .Params.image }}
-        <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        <img src="{{ .Params.Image | absURL }}" class="img-fluid w-75 mb-4" alt="{{ .Title | markdownify }}">
         {{ end }}
+      </div> 
+      <div class="col-lg-10 mx-auto">
         <div class="content mb-5">
           {{ .Content }}
         </div>
+      </div>
 
         <!-- comments -->
         {{ template "_internal/disqus.html" . }}

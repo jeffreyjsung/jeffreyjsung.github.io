@@ -13,24 +13,28 @@ description: "Jeffrey Sung"
 type : "about"
 ---
 
-{{< rawhtml >}}
+### {{< rawhtml >}}
     <div class="text-center" style="margin-bottom: 10px;"> 
-        Hey there, I'm Jeffrey!
+        Hey there, I'm Jeffrey! 👋
     </div>
 {{< /rawhtml >}}
 
-Welcome to my spot on the web for the projects I've created — a compendium of the things I've learned over the years. I really love building things — mostly software, but I have also occasionally dabbled with the world of hardware. I'm still discovering new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.  
+{{< rawhtml >}}
+    <div class="text-center" style="margin-bottom: 10px; line-height: 1.8;"> 
+        Welcome to my spot on the web for the projects I've created — a compendium of the things I've learned over the years. I really love building things — mostly software, but I have also occasionally dabbled with the world of hardware. I'm still discovering new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.  
+    </div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
-        <h4 class="widget-title">Education</h4>
+        <h3 class="widget-title">Education</h3>
         <h5><img src="/images/cal.jpg" width="400"/></img></h5>
     </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}<div class="text-center" style="margin-bottom: 10px;">
-                    <b>Data Science, Electrical Engineering and Computer Science</b> <br>
-                    <b>2019-2022</b>
+##### {{< rawhtml >}}<div class="text-center" style="margin-bottom: 10px;">
+                    <b>Data Science, Electrical Engineering and Computer Science </b>
+                    <b>(2019-2022)</b>
                 </div>
 {{< /rawhtml >}}  
 
@@ -38,17 +42,17 @@ Welcome to my spot on the web for the projects I've created — a compendium of 
 
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
-        <h4 class="widget-title">Experience</h4>
+        <h3 class="widget-title">Experience</h3>
         <h5><img src="/images/amazon_intern_2022.jpg" width="320"/></img></h5>
     </div>
 {{< /rawhtml >}}
-{{< rawhtml >}}
+##### {{< rawhtml >}}
     <div class="text-center" style="margin-bottom: 10px;">
         <b>Software Development Engineer Intern</b>
     </div>
 {{< /rawhtml >}}
 {{< rawhtml >}}
-    <div class="text-left" style="margin-bottom: 10px;">
+    <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
         I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered a new type of personalized recommendation widget to be displayed on the Amazon retail website. The main languages/tools I used were Java, TypeScript and AWS.
     </div>
 {{< /rawhtml >}} 
