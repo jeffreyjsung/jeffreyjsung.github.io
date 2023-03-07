@@ -23,7 +23,12 @@
             {{- end }}
           </ul>
         {{ if .Params.image }}
-        <img src="{{ .Params.Image | absURL }}" class="img-fluid w-75 mb-4" alt="{{ .Title | markdownify }}">
+        <div class="desktop-view">
+          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-75 mb-4" alt="{{ .Title | markdownify }}">
+        </div>
+        <div class="mobile-view">
+          <img src="{{ .Params.Image | absURL }}" class="img-fluid w-100 mb-4" alt="{{ .Title | markdownify }}">
+        </div>
         {{ end }}
       </div> 
       <div class="col-lg-10 mx-auto">
