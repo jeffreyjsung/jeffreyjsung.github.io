@@ -4,9 +4,8 @@
     <!-- navbar -->
     <nav class="navba navbar-expand-lg navbar-white bg-transparent border-bottom pl-0">
       <div class="d-flex ml-auto">
-        <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}" style="color:black;"><img class="img-fluid" width="40%"
-            src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
-        <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
+        <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}" style="color:black;">{{ .Site.Title }}</a>
+        <button class="navbar-toggler border-0" style="color:black; margin-right: 0; margin-left: auto;" type="button" data-toggle="collapse" data-target="#navigation">
           <i class="ti-menu" ></i>
         </button>
       </div>
@@ -21,8 +20,7 @@
           </ul>
         </div>
 
-        <a class="navbar-brand mx-auto desktop-view" href="{{ .Site.BaseURL }}" style="color:black;"><img class="img-fluid" width="40%"
-            src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
+        <a class="navbar-brand mx-auto desktop-view" href="{{ .Site.BaseURL }}" style="color:black;">{{ .Site.Title }}</a>
 
         <ul class="navbar-nav">
           {{ range .Site.Menus.main }}
