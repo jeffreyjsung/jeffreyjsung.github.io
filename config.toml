@@ -78,7 +78,7 @@ weight = 3
 
 #################### default parameters ################################
 [params]
-logo = "images/home.png"
+logo = ""
 home = "Home"
 # Meta data
 description = "My name is Jeffrey Sung"
@@ -116,7 +116,7 @@ expire_days = 2
 
 ############################# social site ########################
 [[params.social]]
-title = "Linkedin"
+title = "LinkedIn"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/jeffreyjsung/"
 

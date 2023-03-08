@@ -15,7 +15,7 @@ type : "about"
 
 ### {{< rawhtml >}}
     <div class="text-center" style="margin-bottom: 10px;"> 
-        Hey there, I'm Jeffrey! 👋
+        Hey there, I'm Jeffrey!
     </div>
 {{< /rawhtml >}}
 
