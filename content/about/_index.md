@@ -28,7 +28,7 @@ type : "about"
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
         <h3 class="widget-title">Education</h3>
-        <h5><img src="/images/cal.jpg" width="400"/></img></h5>
+        <h5><img src="/images/cal.jpg" width="400" style="border-radius:6%;"/></img></h5>
     </div>
 {{< /rawhtml >}}
 
@@ -43,7 +43,7 @@ type : "about"
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
         <h3 class="widget-title">Experience</h3>
-        <h5><img src="/images/amazon_intern_2022.jpg" width="320"/></img></h5>
+        <h5><img src="/images/amazon-intern-2022.jpg" width="320" style="border-radius:6%;"/></img></h5>
     </div>
 {{< /rawhtml >}}
 ##### {{< rawhtml >}}

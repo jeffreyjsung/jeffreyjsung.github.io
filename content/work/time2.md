@@ -4,7 +4,7 @@ date: 2022-12-16T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/time2_pcb.jpeg"
+image: "images/time2-pcb.jpeg"
 
 # meta description
 description: "STAC project"
@@ -30,7 +30,7 @@ Extended spaceflight is known to inhibit immune function, making astronauts more
 ### Summary
 TIME II is a small (500g) payload that will be sent into space on a Blue Origin New Shepard flight; as it is experiencing microgravity, the payload will automatically begin to conduct our biological research experiments. I was part of the electrical engineering effort, whose role is to actually make everything work (collect experimental data, move motors, start experiment at correct time, temperature regulation, etc.).
 
-{{< rawhtml >}} <br><img src="/images/time2_plate.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}  
+{{< rawhtml >}} <br><img class="img-fluid w-50 mb-4" src="/images/time2-plate.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}  
 
 ### Hardware
 General task was to design a PCB that can:

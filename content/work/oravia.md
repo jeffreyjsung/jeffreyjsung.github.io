@@ -4,7 +4,7 @@ date: 2020-12-10T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/oravia_menu.jpeg"
+image: "images/oravia-menu.jpeg"
 
 # meta description
 description: "GDD Final Project"
