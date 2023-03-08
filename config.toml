@@ -50,8 +50,8 @@ URL = "about/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
-URL = "blog/"
+name = "Work"
+URL = "work/"
 weight = 2
 
 [[menu.main]]
@@ -66,8 +66,8 @@ URL = "about/"
 weight = 1
 
 [[menu.footer]]
-name = "Posts"
-URL = "blog/"
+name = "Work"
+URL = "work/"
 weight = 2
 
 [[menu.footer]]
@@ -88,7 +88,7 @@ googleAnalyticsID = 'G-KBSC59NPPN'
 # Contact Information
 mobile = "(949) 482-9408"
 email = "jeffjsung@gmail.com"
-location = "Ladera Ranch, California"
+location = "Los Angeles, California"
 # copyright
 copyright = "| &copy; 2023 Jeffrey Sung All Rights Reserved |"
 
