@@ -33,4 +33,4 @@ Again, these agents were designed for the classic version of Pacman, just this t
 #### Part 4: Ghostbusters
 {{< rawhtml >}} <br><img src="/images/busters.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}  
 
-This part of the project involved a modified version of the Pac-Man game, where Pac-Man has to locate and eat invisible ghosts. I first started with locating single, stationary ghosts then moved on to hunting packs of multiple, moving ghosts. This was done using probabilistic inference techniques, particle filtering algorithma, and Bayes nets.
+This part of the project involved a modified version of the Pac-Man game, where Pac-Man has to locate and eat invisible ghosts. I first started with locating single, stationary ghosts then moved on to hunting packs of multiple, moving ghosts. This was done using probabilistic inference techniques, particle filtering algorithms, and Bayes nets.
