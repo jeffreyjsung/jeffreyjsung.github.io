@@ -21,11 +21,12 @@ tags:
 
 # post type
 type: "post"
----
-{{< rawhtml >}} <br><img src="/images/oravia.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}  
+---  
 
 ### Summary
 A side-scrolling game (think Mario, Sonic, etc.) that several other students and I designed and put together. It is 2.5D, which means the assets are rendered in 3D, but the movement is not actually 3-dimensional. Built using the Unity Game Engine, all assets were created by us.
+
+{{< rawhtml >}} <br><img class="img-fluid w-75 mb-4" src="/images/oravia.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}
 
 ### My Contributions
 - Formulated core level design
