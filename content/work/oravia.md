@@ -26,7 +26,14 @@ type: "post"
 ### Summary
 A side-scrolling game (think Mario, Sonic, etc.) that several other students and I designed and put together. It is 2.5D, which means the assets are rendered in 3D, but the movement is not actually 3-dimensional. Built using the Unity Game Engine, all assets were created by us.
 
-{{< rawhtml >}} <br><img class="img-fluid w-75 mb-4" src="/images/oravia.jpeg" style="display: block; margin: 0 auto"> </img>  <br>{{< /rawhtml >}}
+{{< rawhtml >}} 
+<div class="desktop-view">
+  <img src="/images/oravia.jpeg" class="img-fluid w-75 mb-4" style="display: block; margin: 0 auto">
+</div>
+<div class="mobile-view">
+  <img src="/images/oravia.jpeg" class="img-fluid w-100 mb-4" style="display: block; margin: 0 auto">
+ </div>
+{{< /rawhtml >}}
 
 ### My Contributions
 - Formulated core level design

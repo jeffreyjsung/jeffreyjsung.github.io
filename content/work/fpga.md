@@ -41,12 +41,26 @@ The three stages of the pipeline are:
 ### Memory Mapped I/O
 We utilized the UART protocol to accomplish the low-level task of sending and receiving bits from the serial lines, and use something called memory-mapped I/O to allow the CPU to send and receive bytes to and from the UART. 
 
-{{< rawhtml >}} <img class="img-fluid w-75 mb-4" src="/images/memory-mapped-io.jpg" style="display: block; margin: 0 auto"> </img> {{< /rawhtml >}}
+{{< rawhtml >}} 
+<div class="desktop-view">
+  <img src="/images/memory-mapped-io.jpg" class="img-fluid w-75 mb-4" style="display: block; margin: 0 auto">
+</div>
+<div class="mobile-view">
+  <img src="/images/memory-mapped-io.jpg" class="img-fluid w-100 mb-4" style="display: block; margin: 0 auto">
+ </div>
+{{< /rawhtml >}}
 
 Registers of I/O devices are assigned specific memory addresses, which enables load/store instructions to access them as if they were memory. This memory map is translated into the proper ready-valid handshake signals for the UART. 
 
 ### Branch Predictor
-{{< rawhtml >}} <img class="img-fluid w-75 mb-4" src="/images/branch-predictor-module.jpg" style="display: block; margin: 0 auto"> </img> {{< /rawhtml >}}
+{{< rawhtml >}} 
+<div class="desktop-view">
+  <img src="/images/branch-predictor-module.jpg" class="img-fluid w-75 mb-4" style="display: block; margin: 0 auto">
+</div>
+<div class="mobile-view">
+  <img src="/images/branch-predictor-module.jpg" class="img-fluid w-100 mb-4" style="display: block; margin: 0 auto">
+ </div>
+{{< /rawhtml >}}
 In addition to a basic functioning datapath, we were also responsible for implementing a branch predictor to handle control hazards more effectively. More specifically, we had to build a branch history table, which consists of a cache whose entries are represented by a saturating counter.
 
 It is able to: 
