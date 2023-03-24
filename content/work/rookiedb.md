@@ -8,7 +8,7 @@ image: "images/bnlj.gif"
 
 # meta description
 description: "CS186 DBMS Project"
-summary: "A simple relational database."
+summary: "A relational database implementation."
 author: "Erik Li & Jeffrey Sung"
 
 # taxonomies
