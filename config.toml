@@ -124,8 +124,3 @@ link = "https://www.linkedin.com/in/jeffreyjsung/"
 title = "GitHub"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/jeffreyjsung"
-
-[[params.social]]
-title = "Instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/jeffreyjsung/"
