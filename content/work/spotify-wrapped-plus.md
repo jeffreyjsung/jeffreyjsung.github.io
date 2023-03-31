@@ -24,7 +24,7 @@ type: "post"
 ---
 
 ### Summary
-Spotify Wrapped + is a web app that allows the user to visualize their Spotify listening habits. It is hosted here: {{< rawhtml >}}<a href="https://spotify-wrapped.herokuapp.com/" rel="noopener noreferrer" target="_blank">https://spotify-wrapped.herokuapp.com/</a>{{< /rawhtml >}}. Unfortunately, Spotify only lets explictly added users to access third-party apps, but if you would like to try it out yourself feel free to contact me!
+Spotify Wrapped + is a web app that allows the user to visualize their Spotify listening habits. The code for it can be found here: {{< rawhtml >}}<a href="https://github.com/jeffreyjsung/spotify-wrapped-plus" rel="noopener noreferrer" target="_blank">https://github.com/jeffreyjsung/spotify-wrapped-plus</a>{{< /rawhtml >}}. This is unfortunately not hosted anywhere at the moment because Spotify only lets explictly added users to access third-party apps.
 
 This project was created with a React frontend and Node.js backend. I used the Spotify Web API to obtain profile data and then manipulated/used it to display in a visually appealing manner.
 
