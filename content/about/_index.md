@@ -4,7 +4,7 @@ date: 2022-04-08T01:45:23+06:00
 draft: false
 
 # image
-image: "images/profile2.jpeg"
+image: "images/profile.jpeg"
 
 # meta description
 description: "Jeffrey Sung"
