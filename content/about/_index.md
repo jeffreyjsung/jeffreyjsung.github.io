@@ -57,6 +57,5 @@ type : "about"
     </div>
 {{< /rawhtml >}} 
 - Integrated profile-specific preferences into the recommendation engine of the Amazon shopping website, resulting in a significant improvement in quality of generated results
-- Developed reusable UI components for rendering a specific type of recommendation widget in the front-end, enabling rapid creation of new profile-aware strategies
-- Restructured Java backend API to return encrypted responses, providing secure access to otherwise restricted data
-- Improved infrastructure reliability by devising a framework for testing AWS CloudFormation changes, preventing interference with existing stacks or blocking the CI/CD pipeline
+- Developed reusable UI components with TypeScript and CSS for rendering a type of dynamic recommendation widget in the front-end, enabling rapid creation of new profile-aware strategies
+- Expanded availability of customer profile data API by restructuring the microservice’s AWS stack and modifying the Java backend to optionally return encrypted responses
