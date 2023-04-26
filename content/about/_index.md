@@ -43,6 +43,22 @@ type : "about"
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
         <h3 class="widget-title">Experience</h3>
+        <h5><img src="/images/majorboost.jpg" width="320" style="border-radius:6%;"/></img></h5>
+    </div>
+{{< /rawhtml >}}
+##### {{< rawhtml >}}
+    <div class="text-center" style="margin-bottom: 10px;">
+        <b>Software Engineering Intern</b>
+    </div>
+{{< /rawhtml >}}
+{{< rawhtml >}}
+    <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
+        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. Its products are powered by a sizable amount of novel conversational data that present unique challenges and development opportunities. I got to work on projects that span the entire technology stack, including software engineering (frontend/backend), data engineering, data science, NLP, AI engineering and infrastructure.
+    </div>
+{{< /rawhtml >}} 
+
+{{< rawhtml >}} 
+    <div class="aboutcontent2 text-center" style="margin-top: 40px;">
         <h5><img src="/images/amazon-intern-2022.jpg" width="320" style="border-radius:6%;"/></img></h5>
     </div>
 {{< /rawhtml >}}
@@ -53,9 +69,9 @@ type : "about"
 {{< /rawhtml >}}
 {{< rawhtml >}}
     <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
-        I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered a new type of personalized recommendation widget to be displayed on the Amazon retail website. The main languages/tools I used were Java, TypeScript and AWS.
+        I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered a new type of personalized recommendation widget to be displayed on the Amazon retail website. The main languages/technologies I used were Java, TypeScript and AWS.
     </div>
 {{< /rawhtml >}} 
-- Integrated profile-specific preferences into the recommendation engine of the Amazon shopping website, resulting in a significant improvement in quality of generated results
-- Developed reusable UI components with TypeScript and CSS for rendering a type of dynamic recommendation widget in the front-end, enabling rapid creation of new profile-aware strategies
-- Expanded availability of customer profile data API by restructuring the microservice’s AWS stack and modifying the Java backend to optionally return encrypted responses
+- Owned the end-to-end creation of a new type of profile-aware recommendation widget, integrating necessary changes into the recommendation engine (Java) of the Amazon shopping website
+- Expanded availability of customer profile data API by restructuring the microservice’s AWS stack and modifying GET methods of Spring backend to optionally return encrypted responses
+- Developed reusable UI components using TypeScript and CSS for dynamically rendering widget titles in the front-end

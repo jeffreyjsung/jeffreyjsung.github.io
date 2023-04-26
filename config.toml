@@ -50,8 +50,8 @@ URL = "about/"
 weight = 1
 
 [[menu.main]]
-name = "Work"
-URL = "work/"
+name = "Projects"
+URL = "projects/"
 weight = 2
 
 [[menu.main]]
@@ -66,8 +66,8 @@ URL = "about/"
 weight = 1
 
 [[menu.footer]]
-name = "Work"
-URL = "work/"
+name = "Projects"
+URL = "projects/"
 weight = 2
 
 [[menu.footer]]
@@ -93,8 +93,8 @@ copyright = "| &copy; 2023 Jeffrey Sung All Rights Reserved |"
 
 # Preloader
 [params.preloader]
-enable = false
-preloader = "" # use .png , .svg or .gif format
+enable = true
+preloader = "images/preloader.svg" # use .png , .svg or .gif format
 
 # search
 [params.search]
