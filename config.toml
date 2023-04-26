@@ -84,7 +84,7 @@ home = "Home"
 description = "My name is Jeffrey Sung"
 author = "Jeffrey Sung"
 # Google Analytics
-googleAnalyticsID = 'G-KBSC59NPPN'
+googleAnalyticsID = "G-KBSC59NPPN"
 # Contact Information
 email = "jeffjsung@gmail.com"
 location = "Los Angeles, California"
@@ -93,7 +93,7 @@ copyright = "| &copy; 2023 Jeffrey Sung All Rights Reserved |"
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.svg" # use .png , .svg or .gif format
 
 # search
