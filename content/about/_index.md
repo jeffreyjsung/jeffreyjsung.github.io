@@ -21,7 +21,7 @@ type : "about"
 
 {{< rawhtml >}}
     <div class="text-center" style="margin-bottom: 10px; line-height: 1.8;"> 
-        Welcome to my spot on the web for the projects I've created — a compendium of the things I've learned over the years. I really love building things — mostly software, but I have also occasionally dabbled with the world of hardware. I'm still discovering new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.  
+        Welcome to my spot on the web for the projects I've created — a compilation of the things I've learned over the years. I really love building things — mostly software, but I have also occasionally dabbled with the world of hardware. I'm still discovering new things within the field of technology and on a mission to learn it all, from computer architecture to machine learning.  
     </div>
 {{< /rawhtml >}}
 
