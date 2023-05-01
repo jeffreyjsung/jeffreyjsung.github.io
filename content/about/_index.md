@@ -48,12 +48,12 @@ type : "about"
 {{< /rawhtml >}}
 ##### {{< rawhtml >}}
     <div class="text-center" style="margin-bottom: 10px;">
-        <b>Software Engineering Intern</b>
+        <b>Software Engineering Intern (Summer 2023)</b>
     </div>
 {{< /rawhtml >}}
 {{< rawhtml >}}
     <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
-        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. Its products are powered by a sizable amount of novel conversational data that present unique challenges and development opportunities. I got to work on projects that span the entire technology stack, including software engineering (frontend/backend), data engineering, data science, NLP, AI engineering and infrastructure.
+        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. Its products are powered by a sizable amount of novel conversational data that present unique challenges and development opportunities.
     </div>
 {{< /rawhtml >}} 
 
@@ -64,7 +64,7 @@ type : "about"
 {{< /rawhtml >}}
 ##### {{< rawhtml >}}
     <div class="text-center" style="margin-bottom: 10px;">
-        <b>Software Development Engineer Intern</b>
+        <b>Software Development Engineer Intern (Summer 2022)</b>
     </div>
 {{< /rawhtml >}}
 {{< rawhtml >}}
