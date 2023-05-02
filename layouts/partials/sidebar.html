@@ -46,7 +46,7 @@
       <h4 class="widget-title">Social</h4>
       <ul class="list-inline social-links">
         {{ range .Site.Params.social }}
-        <li class="list-inline-item"><a style="border-radius:9px" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+        <li class="list-inline-item"><a style="border-radius:9px" href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer"><i class="{{ .icon }}"></i></a></li>
         {{ end }}
       </ul>
     </div>
