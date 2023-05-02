@@ -4,6 +4,7 @@ languageCode = "en-us"
 title = "Jeffrey Sung"
 summaryLength = "10"
 paginate = 8
+googleAnalytics = 'G-KBSC59NPPN'
 disqusShortname = ""
 
 [outputs]
@@ -82,8 +83,6 @@ home = "Home"
 # Meta data
 description = "My name is Jeffrey Sung"
 author = "Jeffrey Sung"
-# Google Analytics
-googleAnalytics = 'G-KBSC59NPPN'
 # Contact Information
 email = "jeffjsung@gmail.com"
 location = "Los Angeles, California"
