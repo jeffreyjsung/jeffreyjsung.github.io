@@ -83,7 +83,7 @@ home = "Home"
 description = "My name is Jeffrey Sung"
 author = "Jeffrey Sung"
 # Google Analytics
-googleAnalytics = "G-KBSC59NPPN"
+googleAnalytics = 'G-KBSC59NPPN'
 # Contact Information
 email = "jeffjsung@gmail.com"
 location = "Los Angeles, California"
