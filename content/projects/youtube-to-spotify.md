@@ -4,7 +4,7 @@ date: 2023-04-12T1:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/youtube-to-spotify.jpg"
+image: "images/youtube-to-spotify.jpeg"
 
 # meta description
 description: "Script"
