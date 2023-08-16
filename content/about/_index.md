@@ -53,7 +53,7 @@ type : "about"
 {{< /rawhtml >}}
 {{< rawhtml >}}
     <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
-        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. I embraced a diverse set of responsibilities, including designing + implementing customer-facing features and building an internal stress testing harness to assist with scaling efforts. I worked with a lot of different technologies, inclduing C#/.NET, AWS, Apache Kafka and WebSockets. 
+        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. I embraced a diverse set of responsibilities, including designing + implementing customer-facing features and building an internal stress testing harness to assist with scaling efforts. Some technologies I worked with include C#/.NET, AWS, Apache Kafka and WebSockets. 
     </div>
 {{< /rawhtml >}}
 - Built a background process using asynchronous programming in C#/.NET to fetch various metrics from Twilio and store them in a PostgreSQL database, providing actionable insights into call quality issues
