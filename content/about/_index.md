@@ -53,12 +53,14 @@ type : "about"
 {{< /rawhtml >}}
 {{< rawhtml >}}
     <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
-        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. I embraced a diverse set of responsibilities, including designing + implementing customer-facing features and building an internal stress testing harness to assist with scaling efforts. Some technologies I worked with include C#/.NET, AWS, Apache Kafka and WebSockets. 
+        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. I embraced a diverse set of responsibilities, including designing + implementing customer-facing features and building an internal testing tool to help validate system scalability. Some technologies I worked with include C#/.NET, AWS, Apache Kafka and WebSockets. 
     </div>
 {{< /rawhtml >}}
-- Built a background process using asynchronous programming in C#/.NET to fetch various metrics from Twilio and store them in a PostgreSQL database, providing actionable insights into call quality issues
-- Utilized the Blazor framework to build a customer-facing wizard that streamlines the process of importing new data, saving hours of time every week for both our clients and the development team
-- Developed a comprehensive stress testing harness to help validate system scalability; leveraged existing call data to simulate telephony / speech-to-text functionalities with Apache Kafka which cut down expenses on external APIs
+- Saved 10+ hours of time weekly for both clients and the development team by building a customer-facing wizard that streamlines the process of importing new data using C#/.NET
+- Pioneered the development of a stress testing harness to help assist scaling efforts; cut down expenses on external APIs by
+leveraging existing call data to simulate telephony / speech-to-text functionalities with Apache Kafka
+- Improved detection of call quality issues by building an asynchronous process to consistently fetch various metrics using
+Twilio’s APIs and store them in a PostgreSQL database
 
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
@@ -75,6 +77,8 @@ type : "about"
         I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered a new type of personalized recommendation widget to be displayed on the Amazon retail website. The main languages/technologies I used were Java, TypeScript and AWS.
     </div>
 {{< /rawhtml >}} 
-- Owned the end-to-end creation of a new type of profile-aware recommendation widget, coordinating with 3 separate teams to integrate necessary changes into the recommendation engine (Java) of the Amazon shopping website
-- Expanded availability of customer profile data API by deploying an AWS ECS sidecar container to handle encryption and restructuring GET methods of Spring backend to return secure responses
-- Developed reusable UI components using TypeScript and CSS for dynamically rendering widget titles in the front-end
+- Increased user engagement by spearheading the development of profile-specific recommendation widgets, coordinating
+with multiple teams to integrate end-to-end changes into realtime systems (Java)
+- Expanded availability of customer profile data API by deploying an AWS ECS sidecar container to handle encryption and
+restructuring GET methods of Spring backend to return secure responses
+- Developed reusable UI components using TypeScript for dynamically rendering widget titles in the front-end
