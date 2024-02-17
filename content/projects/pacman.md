@@ -4,7 +4,7 @@ date: 2021-11-12T10:07:47+06:00
 draft: false
 
 # post thumb
-image: "images/pacman_game.gif"
+image: "images/pacman-game.gif"
 
 # meta description
 description: "CS188 Pac-Man Projects"

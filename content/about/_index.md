@@ -28,7 +28,7 @@ type : "about"
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
         <h3 class="widget-title">Education</h3>
-        <h5><img src="/images/cal.jpg" width="400" style="border-radius:6%;"/></img></h5>
+        <h5><img src="/images/cal.jpg" width="400" style="border-radius: 15px;"/></img></h5>
     </div>
 {{< /rawhtml >}}
 
@@ -43,7 +43,24 @@ type : "about"
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
         <h3 class="widget-title">Experience</h3>
-        <h5><img src="/images/majorboost.jpg" width="320" style="border-radius:6%;"/></img></h5>
+        <h5><img src="/images/p13n-profiles.jpeg" width="320" style="border-radius: 15px;"/></img></h5>
+    </div>
+{{< /rawhtml >}}
+##### {{< rawhtml >}}
+    <div class="text-center" style="margin-bottom: 10px;">
+        <b>Software Development Engineer</b>
+    </div>
+{{< /rawhtml >}}
+{{< rawhtml >}}
+    <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
+        I work on making the Amazon shopping experience on the website and mobile app completely profile-aware, meaning multiple people can share a single account and each will have different, personalized shopping recommendations. My role requires working on a  wide range of tasks, including fullstack development, mobile development, as well as data engineering. 
+    </div>
+{{< /rawhtml >}}
+- **Technologies used:** Java, JavaScript, TypeScript, ReactJS, React Native, Objective-C, Scala, SQL, Apache Spark, AWS
+
+{{< rawhtml >}} 
+    <div class="aboutcontent2 text-center" style="margin-top: 40px;">
+        <h5><img src="/images/majorboost.jpg" width="320" style="border-radius: 15px;"/></img></h5>
     </div>
 {{< /rawhtml >}}
 ##### {{< rawhtml >}}
@@ -53,18 +70,14 @@ type : "about"
 {{< /rawhtml >}}
 {{< rawhtml >}}
     <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
-        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. I embraced a diverse set of responsibilities, including designing + implementing customer-facing features and building an internal testing tool to help validate system scalability. Some technologies I worked with include C#/.NET, AWS, Apache Kafka and WebSockets. 
+        <a href="https://www.majorboost.com" rel="noopener noreferrer" target="_blank">MajorBoost</a> is a startup spun out of the Allen Institute for AI that focuses on automating/reducing the routine calls doctors' offices have to make to insurance companies. I embraced a diverse set of responsibilities, which included designing + implementing a wizard to assist clients with data uploads and building an internal testing tool to help validate system scalability.
     </div>
 {{< /rawhtml >}}
-- Saved 10+ hours of time weekly for both clients and the development team by building a customer-facing wizard that streamlines the process of importing new data using C#/.NET
-- Pioneered the development of a stress testing harness to help assist scaling efforts; cut down expenses on external APIs by
-leveraging existing call data to simulate telephony / speech-to-text functionalities with Apache Kafka
-- Improved detection of call quality issues by building an asynchronous process to consistently fetch various metrics using
-Twilio’s APIs and store them in a PostgreSQL database
+- **Technologies used:** C#/.NET, SQL, AWS, Apache Kafka, WebSockets
 
 {{< rawhtml >}} 
     <div class="aboutcontent2 text-center" style="margin-top: 40px;">
-        <h5><img src="/images/amazon-intern-2022.jpg" width="320" style="border-radius:6%;"/></img></h5>
+        <h5><img src="/images/amazon-intern-2022.jpg" width="320" style="border-radius: 15px;"/></img></h5>
     </div>
 {{< /rawhtml >}}
 ##### {{< rawhtml >}}
@@ -74,11 +87,7 @@ Twilio’s APIs and store them in a PostgreSQL database
 {{< /rawhtml >}}
 {{< rawhtml >}}
     <div class="text-left" style="margin-bottom: 10px; line-height: 1.8;">
-        I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered a new type of personalized recommendation widget to be displayed on the Amazon retail website. The main languages/technologies I used were Java, TypeScript and AWS.
+        I worked under the Profiles Team at Amazon, at the same time collaborating closely with the Core Recommendations Team. I delivered new Amazon mobile app widget that shows gift recommendations using data from other profiles under the same account (e.g. Violet would see a recommendation widget titled "Gifts for Stanley"). 
     </div>
 {{< /rawhtml >}} 
-- Increased user engagement by spearheading the development of profile-specific recommendation widgets, coordinating
-with multiple teams to integrate end-to-end changes into realtime systems (Java)
-- Expanded availability of customer profile data API by deploying an AWS ECS sidecar container to handle encryption and
-restructuring GET methods of Spring backend to return secure responses
-- Developed reusable UI components using TypeScript for dynamically rendering widget titles in the front-end
+- **Technologies used:** Java, TypeScript, AWS
